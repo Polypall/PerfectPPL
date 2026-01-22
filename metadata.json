@@ -1,0 +1,8 @@
+{
+  "name": "Perfect People",
+  "description": "A dating and connection platform designed specifically for disabled people, featuring AI matching based on shared hobbies and disabilities, and integrated Jitsi video chat.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
